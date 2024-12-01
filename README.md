@@ -10,7 +10,7 @@ About: It is used for simultaneously downloading selected repositories or all re
 sudo apt-get install curl jq
 ```
 
-2 Make script executapable:
+2 Make script executable:
 ```bash
 chmod +x gitmulti.sh
 ```
