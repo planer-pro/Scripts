@@ -12,7 +12,7 @@ sudo apt-get install curl jq
 
 2 Make script executapable:
 ```bash
-chmod +x gitmulti_interactive.sh
+chmod +x gitmulti.sh
 ```
 
 3 Install Git if it absent:
@@ -23,5 +23,5 @@ sudo apt install git -y
 
 4 Run execute command:
 ```bash
-./gitmulti_interactive.sh username my_personal_access_token
+./gitmulti.sh username my_personal_access_token
 ```
