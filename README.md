@@ -1,5 +1,4 @@
 # Git repositories multi download sctript
-### Git repositories multi download sctript
 
 About: It is used for simultaneously downloading selected repositories or all repositories of a specific GitHub user.
 
