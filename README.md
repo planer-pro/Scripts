@@ -1,4 +1,4 @@
-# Git repositories multi download scrript.
+# Git repositories multi download script.
 
 About: It is used for simultaneously downloading selected repositories or all repositories of a specific GitHub user.
 
